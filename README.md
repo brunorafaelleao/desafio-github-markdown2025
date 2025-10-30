@@ -2,6 +2,6 @@
 Repositório para conclusão do curso de  Introdução aos conceitos de Github da formação Github da DIO
 
 ## Etapa 1:
-- [ ] Criação do Repositório pelo Dev principal
-- [ ] Adicionar o Colaborador
-- [ ] Colaborador realizar o fork
+- [x] Criação do Repositório pelo Dev principal
+- [x] Adicionar o Colaborador
+- [x] Colaborador realizar o fork
