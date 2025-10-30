@@ -5,3 +5,4 @@ Repositório para conclusão do curso de  Introdução aos conceitos de Github d
 - [x] Criação do Repositório pelo Dev principal
 - [x] Adicionar o Colaborador
 - [x] Colaborador realizar o fork
+- [ ] Encaminhar projeto para a finalização
